@@ -43,6 +43,15 @@ body::before {
   background-position: center;
 }
 
+.credit{
+    font-family: jost;
+    font-size: 16px;
+    margin-top: 7vh;
+    margin-bottom: 5vh;
+    text-align: center;
+    color: black;
+}
+
 
 /*h1 { ... }, p { ... }: Styles for h1 (heading) and p (paragraph) elements, adjusting font weight, line height, and font size. Both elements have margin adjustments to control spacing around them.*/
 h1{
